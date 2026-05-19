@@ -17,10 +17,3 @@ management:
       endpoint: http://localhost:9411/api/v2/spans
 
  
-
-spring:
-  security:
-    oauth2:
-      resourceserver:
-        jwt:
-          issuer-uri: https://dev-3hhiknrjf4pxyrot.us.auth0.com/
